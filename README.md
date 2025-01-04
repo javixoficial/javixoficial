@@ -1,1 +1,2 @@
 # JAVIX
+O nome “Javix” foi escolhido por representar a combinação de inovação e confiabilidade. “Jav” remete à palavra “Java”, uma referência à programação e à tecnologia, enquanto “ix” traz a ideia de algo dinâmico e moderno, simbolizando a flexibilidade e adaptabilidade da nossa empresa. Juntos, esses elementos refletem a missão da Javix de estar na vanguarda tecnológica, oferecendo soluções inovadoras e eficientes aos nossos clientes.
