@@ -30,40 +30,30 @@ Ser reconhecida como uma **empresa líder** no desenvolvimento de jogos e aplica
 ---
 
 ## 👩🏼‍🤝‍👨🏽 **EQUIPE JAVIX**
-
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 40px;">
-
-  <div style="text-align: center; width: 150px;">
-    <img src="equipe/img/IMG_20230127_073100_122.jpg" alt="Rayane Sousa" style="border-radius: 50%; width: 120px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
-    <p><strong>Rayane Sousa</strong></p>
-    <p style="color: gray;">Administração do GitHub</p>
-  </div>
-
-  <div style="text-align: center; width: 150px;">
-    <img src="equipe/img/11d74b60-773c-4fdd-a7e3-74a0f7b16db3.jpg" alt="Émilly Soares" style="border-radius: 50%; width: 120px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
-    <p><strong>Émilly Soares</strong></p>
-    <p style="color: gray;">Administração do GitHub</p>
-  </div>
-
-  <div style="text-align: center; width: 150px;">
-    <img src="equipe/img/7b4e6b25-37ab-4a6a-9760-40076ff8ad51.jpg" alt="Willame Silva" style="border-radius: 50%; width: 120px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
-    <p><strong>Willame Silva</strong></p>
-    <p style="color: gray;">Criação de Apps</p>
-  </div>
-
+<div align="center">
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/emillysoares05"><img src="equipe/img/11d74b60-773c-4fdd-a7e3-74a0f7b16db3.jpg" width="100px;" alt="Emilly Soares"/><br /><sub><b>Émilly Soares</b></sub></a><br /></td>
+      <br>
+      <td align="center"><a href="https://github.com/Ydvtim"><img src="equipe/img/IMG_20230127_073100_122.jpg" width="100px;" alt="Rayane Sousa"/><br /><sub><b>Rayane Sousa</b></sub></a><br /></td>
+      
+  <td align="center"><a href="https://github.com/willamesilvaof"><img src="equipe/img/7b4e6b25-37ab-4a6a-9760-40076ff8ad51.jpg" width="100px;" alt="Willame Silva"/><br /><sub><b> Willame Silva</b></sub></a><br /></td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 ---
-# 📬 **CONTATO**
 
-  <a href="mailto:javix.equipe@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-javix.equipe%40gmail.com-blue?style=for-the-badge" alt="Email" style="width: 180px;">
-  </a>
+<h3 align="center">Fale Conosco:</h3>
+<div align="center">
 
-<div style="display: flex; justify-content: start; gap: 15px; align-items: center;">
+<a href="......." target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:javix.equipe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-  <a href="https://instagram.com/seu_perfil" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-seu_perfil-blue?style=for-the-badge" alt="Instagram" style="width: 180px;">
-  </a>
-
+  
 </div>
+
+
+---
