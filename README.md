@@ -9,6 +9,7 @@ Desenvolver jogos e aplicativos inovadores que proporcionem experiências imersi
  •  **Qualidade**: Compromisso com excelência.
  •  **Colaboração**: Trabalho em equipe e         respeito.
  •  **Diversão**: Criar experiências que          conectam e alegram. 
+
  • **Responsabilidade**: Ética e respeito aos    usuários.
 
 # VISÃO
