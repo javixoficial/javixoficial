@@ -41,6 +41,7 @@ Ser reconhecida como uma empresa líder no desenvolvimento de jogos e aplicativo
   </div>
 
 </div>
-# CONTATO 
+
+# CONTATO
 **Email**: javix.equipe@gmail.com
 
