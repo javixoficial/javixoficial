@@ -30,7 +30,7 @@ Ser reconhecida como uma empresa líder no desenvolvimento de jogos e aplicativo
 
   <div style="text-align: center;">
     <img src="equipe/img/11d74b60-773c-4fdd-a7e3-74a0f7b16db3.jpg" alt="Nome da Pessoa 2" style="border-radius: 50%; width: 120px;">
-    <p><strong>Nome da Pessoa 2</strong></p>
+    <p><strong> Émilly Soares</strong></p>
     <p>Administração do GitHub</p>
   </div>
 
