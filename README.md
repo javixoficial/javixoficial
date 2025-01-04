@@ -19,30 +19,28 @@ Desenvolver jogos e aplicativos inovadores que proporcionem experiências imersi
 Ser reconhecida como uma empresa líder no desenvolvimento de jogos e aplicativos, promovendo inovação constante e criando produtos que encantam e conectam pessoas ao redor do mundo.
 
 # EQUIPE
-<section id="equipe">
-  <h2>Nossa Equipe</h2>
-  <div class="container">
-    <div class="card">
-      <img src="caminho/para/foto1.jpg" alt="Nome da Pessoa">
-      <h3>Nome da Pessoa</h3>
-      <p>Cargo</p>
-    </div>
-    <div class="card">
-      <img src="caminho/para/foto2.jpg" alt="Nome da Pessoa">
-      <h3>Nome da Pessoa</h3>
-      <p>Cargo</p>
-    </div>
-    <div class="card">
-      <img src="caminho/para/foto3.jpg" alt="Nome da Pessoa">
-      <h3>Nome da Pessoa</h3>
-      <p>Cargo</p>
-      <div class="card">
-      <img src="caminho/para/foto3.jpg" alt="Nome da Pessoa">
-      <h3>Nome da Pessoa</h3>
-      <p>Cargo</p>
-  </div>
-</section>
 
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://via.placeholder.com/150" alt="Nome da Pessoa 1" style="border-radius: 50%; width: 150px; height: 150px;">
+    <p><strong>Nome da Pessoa 1</strong></p>
+    <p>Função</p>
+  </div>
+
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://via.placeholder.com/150" alt="Nome da Pessoa 2" style="border-radius: 50%; width: 150px; height: 150px;">
+    <p><strong>Nome da Pessoa 2</strong></p>
+    <p>Função</p>
+  </div>
+
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://via.placeholder.com/150" alt="Nome da Pessoa 3" style="border-radius: 50%; width: 150px; height: 150px;">
+    <p><strong>Nome da Pessoa 3</strong></p>
+    <p>Função</p>
+  </div>
+
+</div>
 # CONTATO 
 **Email**: javix.equipe@gmail.com
 
