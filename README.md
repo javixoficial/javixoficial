@@ -42,6 +42,45 @@ Ser reconhecida como uma empresa líder no desenvolvimento de jogos e aplicativo
       <p>Cargo</p>
   </div>
 </section>
+#equipe {
+  text-align: center;
+  padding: 50px;
+  background-color: #f9f9f9;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.card {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  width: 200px;
+  padding: 15px;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+}
+
+.card h3 {
+  margin-top: 10px;
+  font-size: 18px;
+  color: #333;
+}
+
+.card p {
+  font-size: 14px;
+  color: #777;
+}
 
 
 
