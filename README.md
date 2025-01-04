@@ -19,6 +19,29 @@ Desenvolver jogos e aplicativos inovadores que proporcionem experiências imersi
 Ser reconhecida como uma empresa líder no desenvolvimento de jogos e aplicativos, promovendo inovação constante e criando produtos que encantam e conectam pessoas ao redor do mundo.
 
 # EQUIPE
+<section id="equipe">
+  <h2>Nossa Equipe</h2>
+  <div class="container">
+    <div class="card">
+      <img src="caminho/para/foto1.jpg" alt="Nome da Pessoa">
+      <h3>Nome da Pessoa</h3>
+      <p>Cargo</p>
+    </div>
+    <div class="card">
+      <img src="caminho/para/foto2.jpg" alt="Nome da Pessoa">
+      <h3>Nome da Pessoa</h3>
+      <p>Cargo</p>
+    </div>
+    <div class="card">
+      <img src="caminho/para/foto3.jpg" alt="Nome da Pessoa">
+      <h3>Nome da Pessoa</h3>
+      <p>Cargo</p>
+      <div class="card">
+      <img src="caminho/para/foto3.jpg" alt="Nome da Pessoa">
+      <h3>Nome da Pessoa</h3>
+      <p>Cargo</p>
+  </div>
+</section>
 
 
 
