@@ -35,9 +35,9 @@ Ser reconhecida como uma empresa líder no desenvolvimento de jogos e aplicativo
   </div>
 
   <div style="text-align: center;">
-    <img src="https://via.placeholder.com/150" alt="Nome da Pessoa 3" style="border-radius: 50%; width: 120px;">
-    <p><strong>Nome da Pessoa 3</strong></p>
-    <p>Função</p>
+    <img src="equipe/img/7b4e6b25-37ab-4a6a-9760-40076ff8ad51.jpg" alt="Nome da Pessoa 3" style="border-radius: 50%; width: 120px;">
+    <p><strong>Willame Silva</strong></p>
+    <p>Criar os apps</p>
   </div>
 
 </div>
