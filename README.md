@@ -34,11 +34,9 @@ Ser reconhecida como uma **empresa líder** no desenvolvimento de jogos e aplica
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/emillysoares05"><img src="equipe/img/11d74b60-773c-4fdd-a7e3-74a0f7b16db3.jpg" width="100px;" alt="Emilly Soares"/><br /><sub><b>Émilly Soares</b></sub></a><br /></td>
-      <br>
-      <td align="center"><a href="https://github.com/Ydvtim"><img src="equipe/img/IMG_20230127_073100_122.jpg" width="100px;" alt="Rayane Sousa"/><br /><sub><b>Rayane Sousa</b></sub></a><br /></td>
-      
-  <td align="center"><a href="https://github.com/willamesilvaof"><img src="equipe/img/7b4e6b25-37ab-4a6a-9760-40076ff8ad51.jpg" width="100px;" alt="Willame Silva"/><br /><sub><b> Willame Silva</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/emillysoares05"><img src="equipe/img/11d74b60-773c-4fdd-a7e3-74a0f7b16db3.jpg" width="100px" height="100px" style="object-fit: cover;" alt="Emilly Soares"/><br /><sub><b>Émilly Soares</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/Ydvtim"><img src="equipe/img/IMG_20230127_073100_122.jpg" width="100px" height="100px" style="object-fit: cover;" alt="Rayane Sousa"/><br /><sub><b>Rayane Sousa</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/willamesilvaof"><img src="equipe/img/7b4e6b25-37ab-4a6a-9760-40076ff8ad51.jpg" width="100px" height="100px" style="object-fit: cover;" alt="Willame Silva"/><br /><sub><b>Willame Silva</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
@@ -48,12 +46,12 @@ Ser reconhecida como uma **empresa líder** no desenvolvimento de jogos e aplica
 
 <h3 align="center">Fale Conosco:</h3>
 <div align="center">
-
-<a href="......." target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:javix.equipe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-  
+  <a href="https://instagram.com/seu_perfil" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:javix.equipe@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
 </div>
-
 
 ---
