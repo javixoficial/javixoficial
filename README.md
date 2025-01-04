@@ -18,13 +18,12 @@ Desenvolver jogos e aplicativos inovadores que proporcionem experiências imersi
 # VISÃO
 Ser reconhecida como uma empresa líder no desenvolvimento de jogos e aplicativos, promovendo inovação constante e criando produtos que encantam e conectam pessoas ao redor do mundo.
 
-# EQUIPE
-## 🧑‍🤝‍🧑 Equipe Javix
+# 👩🏼‍🤝‍👨🏽 EQUIPE JAVIX
 
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 20px;">
 
   <div style="text-align: center;">
-    <img src="https://via.placeholder.com/150" alt="Nome da Pessoa 1" style="border-radius: 50%; width: 120px;">
+    <img src="equipe/img/IMG_20230127_073100_122.jpg" alt="Nome da Pessoa 1" style="border-radius: 50%; width: 120px;">
     <p><strong>Nome da Pessoa 1</strong></p>
     <p>Função</p>
   </div>
