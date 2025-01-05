@@ -1,7 +1,7 @@
 # 🎮 **JAVIX**  
 
 <div align="center">
-  <img src="equipe/img/IMG_4330.PNG" alt="Javix Logo" width="200px">
+  <img src="equipe/img/IMG_4330.PNG" alt="Javix Logo" width="480px">
 </div>
 
 O nome **“Javix”** foi escolhido por representar a combinação de **inovação** e **confiabilidade**.  
