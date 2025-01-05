@@ -96,13 +96,7 @@ Ser reconhecida como uma **empresa líder** no desenvolvimento de jogos e aplica
 ---
 
 <h3 align="center">Fale Conosco:</h3>
-<div align="center">
-  <a href="https://instagram.com/javix.oficial" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:javix.equipe@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</div>
-
----
+<p align="center">
+  <a href="mailto: javix.equipe@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/javix.oficial/profilecard/?igsh=MTl1cTdrMGY2eGZmNQ=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
