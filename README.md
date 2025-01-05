@@ -48,7 +48,7 @@ Ser reconhecida como uma **empresa líder** no desenvolvimento de jogos e aplica
 
 <h3 align="center">Fale Conosco:</h3>
 <div align="center">
-  <a href="https://instagram.com/....." target="_blank">
+  <a href="https://instagram.com/javix.oficial" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href="mailto:javix.equipe@gmail.com">
