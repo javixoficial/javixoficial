@@ -13,14 +13,18 @@ Juntos, esses elementos refletem a missão da Javix de estar na **vanguarda tecn
 # 🤖 **PROJETO**
 **1. Tela de Login**
 • **Objetivo**: Criar uma tela onde o usuário insira um nome de
-usuário e senha para acessar o sistema. • Funcionalidades:
+usuário e senha para acessar o sistema.  
+
+**Funcionalidades:**
 • O usuário insere as credenciais.
 • Se as credenciais forem corretas, o usuário é redirecionado para a tela de menu, onde ele escolhe a calculadora ou o jogo da velha.
 • Caso as credenciais estejam erradas, uma mensagem de erro é exibida.
 
 **2. Calculadora**
 • Objetivo: Criar uma calculadora simples que permita realizar
-operações matemáticas básicas. • Funcionalidades:
+operações matemáticas básicas.  
+
+**Funcionalidades:**
 • O usuário pode inserir números e realizar operações como adição, subtração, multiplicação e divisão.
 • O visor exibe o resultado final.
 • O design da calculadora será simples, com botões para os
@@ -29,7 +33,7 @@ números e as operações.
 **3. Jogo da Velha**
 • Objetivo: Desenvolver o clássico jogo da velha para dois
 jogadores.
-• Funcionalidades:
+**Funcionalidades:**
 • O usuário escolhe entre jogar contra outro jogador ou contra
 a máquina (dependendo da implementação).
 • O jogo é exibido em uma grade 3x3, e os jogadores alternam
@@ -38,6 +42,8 @@ entre X e O.
 ou continuamento da partida.
 • A interface deve ser intuitiva e permitir a fácil interação com
 os botões para marcar as células da grade.
+
+---
 
 ## 🌟 **MISSÃO**  
 Desenvolver jogos e aplicativos inovadores que proporcionem **experiências imersivas** e emocionantes para os usuários, utilizando **tecnologia de ponta** e criatividade para transformar ideias em realidade.
