@@ -1,6 +1,8 @@
 # 🎮 **JAVIX**  
 
-![Javix Logo](equipe/img/IMG_4330.PNG)
+<div align="center">
+  <img src="equipe/img/IMG_4330.PNG" alt="Javix Logo" width="200px">
+</div>
 
 O nome **“Javix”** foi escolhido por representar a combinação de **inovação** e **confiabilidade**.  
 - **"Jav"** remete à palavra **Java**, uma referência à programação e tecnologia.  
@@ -90,8 +92,6 @@ Ser reconhecida como uma **empresa líder** no desenvolvimento de jogos e aplica
   </tbody>
 </table>
 </div>
-
-
 
 ---
 
