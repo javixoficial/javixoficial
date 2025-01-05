@@ -26,7 +26,7 @@ usuário e senha para acessar o sistema.
 
 **2. Calculadora**
 
-• Objetivo: Criar uma calculadora simples que permita realizar
+• **Objetivo:** Criar uma calculadora simples que permita realizar
 operações matemáticas básicas.  
 
 **Funcionalidades:**
@@ -40,7 +40,7 @@ números e as operações.
 
 **3. Jogo da Velha**
 
-• Objetivo: Desenvolver o clássico jogo da velha para dois
+• **Objetivo:** Desenvolver o clássico jogo da velha para dois
 jogadores.
 
 **Funcionalidades:**
