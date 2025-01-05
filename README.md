@@ -1,6 +1,6 @@
 # 🎮 **JAVIX**  
 
-![Javix Logo](https://via.placeholder.com/400x150?text=Seu+Logo+Aqui)
+![Javix Logo](equipe/img/IMG_4330.PNG)
 
 O nome **“Javix”** foi escolhido por representar a combinação de **inovação** e **confiabilidade**.  
 - **"Jav"** remete à palavra **Java**, uma referência à programação e tecnologia.  
