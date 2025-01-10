@@ -84,10 +84,10 @@ Ser reconhecida como uma **empresa líder** no desenvolvimento de jogos e aplica
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/emillysoares05"><img src="equipe/img/11d74b60-773c-4fdd-a7e3-74a0f7b16db3.jpg" width="100px" height="150px" style="object-fit: cover;" alt="Emilly Soares"/><br /><sub><b>Émilly Soares</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/Ydvtim"><img src="equipe/img/IMG_20230127_073100_122.jpg" width="100px" height="150px" style="object-fit: cover;" alt="Rayane Sousa"/><br /><sub><b>Rayane Sousa</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/willamesilvaof"><img src="equipe/img/7b4e6b25-37ab-4a6a-9760-40076ff8ad51.jpg" width="100px" height="150px" style="object-fit: cover;" alt="Willame Silva"/><br /><sub><b>Willame Silva</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/Antonio-Andrew"><img src="equipe/img/57faa46b-0de4-47ff-a8ca-545d1252c327.jpg" width="100px" height="150px" style="object-fit: cover;" alt="Andrew Silva"/><br /><sub><b>Andrew Silva</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/emillysoares05"><img src="equipe/img/11d74b60-773c-4fdd-a7e3-74a0f7b16db3.jpg" width="100px" height="125px" style="object-fit: cover;" alt="Emilly Soares"/><br /><sub><b>Émilly Soares</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/Ydvtim"><img src="equipe/img/IMG_20230127_073100_122.jpg" width="100px" height="125px" style="object-fit: cover;" alt="Rayane Sousa"/><br /><sub><b>Rayane Sousa</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/willamesilvaof"><img src="equipe/img/7b4e6b25-37ab-4a6a-9760-40076ff8ad51.jpg" width="100px" height="125px" style="object-fit: cover;" alt="Willame Silva"/><br /><sub><b>Willame Silva</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/Antonio-Andrew"><img src="equipe/img/57faa46b-0de4-47ff-a8ca-545d1252c327.jpg" width="100px" height="125px" style="object-fit: cover;" alt="Andrew Silva"/><br /><sub><b>Andrew Silva</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
